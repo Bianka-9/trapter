@@ -4,7 +4,7 @@
 * Copyright: 2025, Nagy Bianka
 * Group: Szoft 1/N
 * Date: 2025.02.24
-* Github: https://github.com/janos12345/
+* Github: https://github.com/Bianka-9
 * Licenc: MIT
 */
 
